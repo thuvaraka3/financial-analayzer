@@ -1,0 +1,10 @@
+{
+  "name": "finsight-ai-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "python run.py"
+  },
+  "dependencies": {
+    "firebase-admin": "^14.0.0"
+  }
+}
